@@ -35,7 +35,7 @@ I'm an Information Technology student specializing in Network and Security and i
 
 
 ## 📊 GitHub Stats
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-c-s-ramos&show_icons=true&theme=transparent&hide=stars,prs,issues,contribs&include_all_commits=true&rank_icon=percentile"/> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-c-s-ramos&show_icons=true&theme=transparent&size_weight=0&count_weight=1&layout=compact"/>
+![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-c-s-ramos&show_icons=true&theme=transparent&hide=stars,prs,issues,contribs&include_all_commits=true&rank_icon=percentile&custom_title=Aaron%27s%20GitHub%20Stats) ![Aaron's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-c-s-ramos&show_icons=true&theme=transparent&size_weight=0&count_weight=1&layout=compact)
 
 [Aaron's WakaTime Stats - In Progress]: # (https://github-readme-stats.vercel.app/api/wakatime?username=aaron_c_s_ramos)
 
