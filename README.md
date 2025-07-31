@@ -41,8 +41,8 @@ I'm an Information Technology student specializing in Network and Security and i
 
 
 ## 📊 GitHub Stats
-![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaron-c-s-ramos&show_icons=true&theme=transparent&hide=stars,prs,issues,contribs&include_all_commits=true&rank_icon=percentile&custom_title=Aaron%27s%20GitHub%20Stats) ![Aaron's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-c-s-ramos&show_icons=true&theme=transparent&layout=compact)
+![Aaron's GitHub Stats](https://github-readme-stats-eight-weld-12.vercel.app/api?username=aaron-c-s-ramos&show_icons=true&theme=transparent&hide=stars,prs,issues,contribs&include_all_commits=true&rank_icon=percentile&custom_title=Aaron%27s%20GitHub%20Stats) ![Aaron's Most Used Languages](https://github-readme-stats-eight-weld-12.vercel.app/api/top-langs/?username=aaron-c-s-ramos&show_icons=true&theme=transparent&layout=compact&langs_count=20&hide=css&size_weight=0.5&count_weight=0.5)
 
-![Aaron's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaron_c_s_ramos&layout=compact)
+![Aaron's WakaTime Stats](https://github-readme-stats-eight-weld-12.vercel.app/api/wakatime?username=aaron_c_s_ramos&layout=compact)
 
 ![Aaron's WakaTime Coding Stats](https://wakatime.com/share/@aaron_c_s_ramos/bde82ba9-36f8-49d6-b324-dac9c6e97d51.svg)
