@@ -45,4 +45,6 @@ I'm an Information Technology student specializing in Network and Security and i
 
 ![Aaron's WakaTime Stats](https://github-readme-stats-eight-weld-12.vercel.app/api/wakatime?username=aaron_c_s_ramos&layout=compact)
 
-![Aaron's WakaTime Coding Stats](https://wakatime.com/share/@aaron_c_s_ramos/bde82ba9-36f8-49d6-b324-dac9c6e97d51.svg)
+![Aaron's WakaTime Coding Stats - 30 Days](https://wakatime.com/share/@aaron_c_s_ramos/bde82ba9-36f8-49d6-b324-dac9c6e97d51.svg)
+
+![Aaron's WakaTime Coding Stats - 1 Year](https://wakatime.com/share/@aaron_c_s_ramos/7d747a6e-2b03-41da-865a-2d134e95a2bd.svg)
