@@ -18,6 +18,8 @@ I'm an Information Technology student specializing in Network and Security and i
 
 [![Roadmap](https://img.shields.io/badge/Roadmap.sh-Profile_Link-3A3B3C?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/aaronramos)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/EnochSignus.png)](https://tryhackme.com/p/EnochSignus)
+
 
 ## 💻 Tech Stack
 ### Languages
