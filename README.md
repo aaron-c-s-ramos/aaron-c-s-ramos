@@ -12,7 +12,9 @@ I'm an Information Technology student specializing in Network and Security and i
 
 
 ## 🛠 Skills
-[![roadmap.sh](https://roadmap.sh/card/wide/666e84ed5a1e5ea6c2677b3a?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Ccyber-security)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/666e84ed5a1e5ea6c2677b3a?variant=dark&roadmaps=%2Cprompt-engineering%2Cdevops%2Ccyber-security%2Cai-engineer)](https://roadmap.sh)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/666e84ed5a1e5ea6c2677b3a?variant=dark&roadmaps=%2Cfrontend%2Cbackend%2Creact-native%2Ctypescript)](https://roadmap.sh)
 
 [![Roadmap](https://img.shields.io/badge/Roadmap.sh-Profile_Link-3A3B3C?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://roadmap.sh/u/aaronramos)
 
